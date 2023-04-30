@@ -1,0 +1,14 @@
+nav {
+    background: #333;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+}
+
+ul li a{
+    display: inline-block;
+    text-decoration: none;
+}
